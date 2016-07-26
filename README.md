@@ -1,2 +1,2 @@
 # RateChar
-A small web app consuming Blizzard´s web api
+A tiny web app consuming Blizzard´s web api
