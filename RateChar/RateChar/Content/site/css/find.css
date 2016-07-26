@@ -1,0 +1,37 @@
+﻿.title {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+#group {
+    width: 300px;
+}
+
+#char {
+    margin-bottom: 25px;
+}
+
+    #char > input {
+        height: 27px;
+        padding-left: 5px;
+        font-size: 12px;
+        font-family: Arial;
+    }
+
+#realm {
+    margin-bottom: 45px;
+}
+
+    #realm > select {
+        width: 100%;
+    }
+
+#button {
+    text-align: right;
+    margin-bottom: 40px;
+}
+
+    #button > button {
+        font-size: 13px;
+        font-family: Arial;
+    }
